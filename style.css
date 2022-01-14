@@ -15,7 +15,7 @@ h1{
     padding: 8px 20px; border-radius: 10px;
     text-decoration: none;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 150px;
 
@@ -46,4 +46,8 @@ section p{
 #img-width{
     width: 60%;
     padding-left: 0px;
+}
+.experiences{
+    display: flex;
+
 }
