@@ -71,10 +71,10 @@ footer{
 #border-img-1{
     border-left: 10px solid;
     border-image: linear-gradient(#5e3cf6, #4d9f0c) 30;
-    border-image-slice: 1;
+    border-image-slice: 4;
 }
 #border-img-2{
     border-left: 10px solid;
     border-image: linear-gradient(#f63caf, #9f420c) 30;
-    border-image-slice: 1;
+    border-image-slice: 4;
 }
