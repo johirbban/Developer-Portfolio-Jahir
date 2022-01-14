@@ -40,6 +40,8 @@ section p{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: bottom right;  
+    padding-right: 2%;
+    margin-right: 0;
 }
 #img-width{
     width: 60%;
